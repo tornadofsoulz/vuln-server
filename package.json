@@ -1,0 +1,10 @@
+{
+  "name": "simple-web-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js web server for handling health-check requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
